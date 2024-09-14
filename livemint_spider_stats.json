@@ -1,0 +1,10 @@
+{
+    "total_requests": 424,
+    "successful_requests": 424,
+    "failed_requests": 0,
+    "articles_scraped": 399,
+    "response_codes": {
+        "200": 424
+    },
+    "errors": []
+}

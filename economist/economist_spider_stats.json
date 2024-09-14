@@ -1,0 +1,13 @@
+{
+    "total_baseURL": 21,
+    "total_requests": 110,
+    "successful_baseURL": 21,
+    "failed_baseURL": 0,
+    "successful_requests": 110,
+    "failed_requests": 0,
+    "articles_scraped": 110,
+    "response_codes": {
+        "200": 131
+    },
+    "errors": []
+}

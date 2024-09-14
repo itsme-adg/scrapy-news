@@ -1,0 +1,16 @@
+{
+    "total_baseURL": 19,
+    "total_requests": 122,
+    "successful_baseURL": 19,
+    "failed_baseURL": 0,
+    "successful_requests": 122,
+    "failed_requests": 2,
+    "articles_scraped": 122,
+    "response_codes": {
+        "200": 141
+    },
+    "errors": [
+        "IgnoreRequest error on https://www.economist.com/letters?page=2",
+        "IgnoreRequest error on https://www.economist.com/by-invitation?page=2"
+    ]
+}
